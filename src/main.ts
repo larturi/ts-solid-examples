@@ -1,5 +1,8 @@
 // Single Responsibility Principle
-import './01-srp';
+// import './01-srp';
+
+// Open - Close Principle
+import './02-open-close-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
