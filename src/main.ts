@@ -1,8 +1,11 @@
-// Single Responsibility Principle
+// 1. Single Responsibility Principle
 // import './01-srp';
 
-// Open - Close Principle
-import './02-open-close-a';
+// 2. Open - Close Principle
+// import './02-open-close-a';
+
+// 3. Liskov Principle
+import './03-liskov-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
