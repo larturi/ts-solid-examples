@@ -5,7 +5,10 @@
 // import './02-open-close-a';
 
 // 3. Liskov Principle
-import './03-liskov-a';
+// import './03-liskov-a';
+
+// 4.Interface Segregation Principle
+import './04-segregation-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
